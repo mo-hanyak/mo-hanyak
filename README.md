@@ -1,16 +1,13 @@
-## Hi there 👋
+# hi, I'm Mohamed
 
-<!--
-**mo-hanyak/mo-hanyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a CS student trying to get into ML. currently doing the unglamorous part of it. Learning Python properly, wrapping my head around data, and figuring out how backends don't fall apart.
 
-Here are some ideas to get you started:
+most of what's here is uni coursework for now. real projects incoming soon though.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I am working with so far
+
+`Python` `JavaScript` `HTML / CSS` `Git`
+
+## open to
+
+internships, junior level roles, or interesting conversations. feel free to reach out!
