@@ -8,6 +8,6 @@ Most of what's here is uni coursework for now. Real projects incoming soon thoug
 
 `Python` `JavaScript` `HTML / CSS` `Git`
 
-## open to
+## Open to
 
 internships, junior level roles, or interesting conversations. feel free to reach out!
